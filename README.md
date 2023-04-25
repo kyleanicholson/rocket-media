@@ -25,4 +25,4 @@ The website is designed to display news articles in a grid layout, with a naviga
 
 ## Credits
 
-This website was created by [Your Name] as a project for [Your Course/Program Name]. It uses [
+This website was created by Kyle Nicholson
