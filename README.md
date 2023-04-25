@@ -1,4 +1,4 @@
-# rocket-media
+# Rocket Media
 
 This is a simple responsive news website that uses CSS Grid for layout.
 
